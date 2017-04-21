@@ -1,4 +1,5 @@
-// FILE: poly.h
+// xxxxxxxxxxxxx
+//FILE: poly.h
 // CLASS PROVIDED:
 //   class polynomial 
 //     A polynomial has one variable x, real number coefficients, and
